@@ -1,0 +1,11 @@
+[package]
+name = "kubos_service"
+version = "0.1.0"
+authors = ["Ryan Plauche <ryan@kubos.co>"]
+
+[dependencies]
+iron = "0.6.0"
+mount = "0.4.0"
+logger = "0.4.0"
+juniper_iron = "0.1.2"
+juniper = "0.9.2"
